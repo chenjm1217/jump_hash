@@ -2,6 +2,16 @@
 *.o
 *.a
 *.so
+jump_hash
+
+# tmp file
+a
+b
+c
+d
+e
+f
+g
 
 # Folders
 _obj
