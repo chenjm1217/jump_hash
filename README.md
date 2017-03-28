@@ -1,6 +1,6 @@
-# jump_hash go code example
+# jump_hash go code
 
-### consistent hash example code
+### Jump Consistent Hash algorithm in GO
 
 Better implemention can reference dpdk open source code at `dpdk/lib/librte_hash/rte_jhash.h`
 
